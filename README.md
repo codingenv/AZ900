@@ -12,4 +12,7 @@ Youtube Links:
 
 Practice paper from youtube: 2024 prep
   https://www.youtube.com/playlist?list=PL0AYtrUw-NRT-1Y5412md8lZZkQitiTB9
+
+Git Links:
+  https://github.com/PrashantWalunj999/Exam-AZ-900-Microsoft-Azure-Fundamentals
   
