@@ -16,3 +16,5 @@ Practice paper from youtube: 2024 prep
 Git Links:
   https://github.com/PrashantWalunj999/Exam-AZ-900-Microsoft-Azure-Fundamentals
   
+Marczak.io  
+https://marczak.io/az-900/
